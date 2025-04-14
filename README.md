@@ -1,6 +1,9 @@
 # Blog Post
 This repo is part of a blog post that can be found [here:](https://medium.com/@wjleon/the-new-google-firebase-studio-gave-me-vibes-of-2010-the-vibe-coding-battle-b568d51d4ed1)
 
+# You can see and use the deployed app
+[Click here to open the app](https://sorting-algorithms-claude-code.vercel.app/)
+
 # Sorting Algorithm Visualizer with Claude Code
 
 An interactive web application for visualizing how various sorting algorithms work. Built with Next.js and TypeScript.
